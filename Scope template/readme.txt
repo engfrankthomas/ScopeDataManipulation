@@ -1,0 +1,1 @@
+add scope template file in this directory for referencing, it wont be used by the program
